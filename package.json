@@ -1,0 +1,30 @@
+/**
+* File name : package.json file
+* Keval Sanjaybhai Patel
+* Student ID 301171202
+* Date: 12/02/2021
+*/
+
+{
+  "name": "k",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./server.js"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.2",
+    "body-parser": "^1.18.3",
+    "bootstrap": "^4.6.0",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "express-layout": "^0.1.0",
+    "http-errors": "~1.6.3",
+    "jade": "~1.11.0",
+    "jquery": "^3.5.1",
+    "morgan": "~1.9.1",
+    "popper.js": "^1.16.1",
+    "start": "^5.1.0"
+  }
+}
